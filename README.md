@@ -3,7 +3,7 @@
 ## I'm Uzma Fullstack Junior Developer.
 *trainee at CodeYourFuture.
 
-*🔭 Currently working on Full Stack Projectcalled "We are here"
+*🔭 Currently working on Full Stack Projectcalled "We are here".
 *🌱 Learning new skills everyday.
 *👯 I’m looking to collaborate on junior level web devlopment projects.
 *💬 Ask me about junior level programming questions.
