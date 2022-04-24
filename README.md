@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-## I'm Uzma Fullstack Junior Developer.
-*trainee at CodeYourFuture.
+## I am Uzma Fullstack Junior Developer.
+*Graduated from CodeYourFuture.
 
 * 🔭 Currently working on new project.
 * 🌱 Learning new skills everyday.
